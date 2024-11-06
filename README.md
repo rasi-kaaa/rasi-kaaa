@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasika
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python,java,html/css
-- 📫 How to reach me linkedin.com/in/rasika-namadou-5091222a0
+- 📫 How to reach me linkedin.com/in/rasika-namadou
 - 😄 Pronouns:She/her
 - ⚡ Fun fact: manga,food
 
